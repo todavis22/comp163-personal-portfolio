@@ -27,11 +27,11 @@ Hobbies_Stuff = {"Gaming", "Photography", "Reading", "Soccer", "Music"}
 Entertainment_Backlog = {"One Piece", "Barry", "Life", "incantation", "Memento"}
 
 #Dictionary
-Course_Credit = {"COMP 163":3, "MATH 150":3, "ENG 101":3, "HIS 105":3}
-Course_Professor = {"COMP 163":"Prof. Rhodes", "MATH 150":"Dr. Lee", "ENG 101":"Dr. Martinez", "HIS 105":"Dr. Brown"}
-Course_Room = {"COMP 163":"M-Eric 300", "MATH 150":"Marteena 201", "ENG 101":"Crosby 121", "HIS 105":"Crosby 210"}
-Monthly_Bud = {"Food":450, "Entertainment":200, "Books":125, "Transportation":100}
-Study_Hours = {"Programming":10, "Math":8, "English":4, "History":3}
+Course_Credit = {"COMP 163":3, "MATH 150":3, "ENG 101":3, "GEEN 111":3}
+Course_Professor = {"COMP 163":"Prof. Rhodes", "MATH 150":"Dr. Gibson", "ENG 101":"Prof. A", "GEEN 111":"Dr. Parish"}
+Course_Room = {"COMP 163":"M-Eric 300", "MATH 150":"Marteena 201", "ENG 101":"GCB 121", "GEEN 111":"Graham 210"}
+Monthly_Bud = {"Food":100, "Entertainment":200, "Books":125, "Transportation":0}
+Study_Hours = {"Programming":10, "Math":2, "English":2, "General Engineering":1}
 Contact_direct = {"Mom":"704-555-0199", "Roommate":"336-555-7821", "Academic Advisor":"336-334-5000"}
 
 #Calculations
